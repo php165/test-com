@@ -1,7 +1,7 @@
 {
     "name": "php165/test-com",
     "description": "this is test",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
